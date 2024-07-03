@@ -1,0 +1,6 @@
+DATASET_DIR = "./dataset"
+FONT_SIZE = 1
+FRAMES = int(1.5 * 24)
+FEATURES = 84
+SAMPLES = 25
+WEIGHTS_DIR = "./weights"
